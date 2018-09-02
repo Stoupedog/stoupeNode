@@ -1,0 +1,14 @@
+{
+  "name": "stoupenode",
+  "version": "0.0.1",
+  "description": "Deploying with DigitalOcean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digitalocean"
+  ],
+  "author": "Henry Stoupe",
+  "license": "ISC"
+}
