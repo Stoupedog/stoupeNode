@@ -4,11 +4,18 @@
   "description": "Deploying with DigitalOcean",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "digitalocean"
   ],
   "author": "Henry Stoupe",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "fly": "^2.0.6"
+  },
+  "dependencies": {
+    "flightplan": "^0.6.19"
+  }
 }
