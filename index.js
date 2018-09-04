@@ -1,7 +1,7 @@
 let i = 0;
 
 setInterval(function() {
-    if (i < 10) {
+    if (i < 25) {
         console.log(i+1);
         i++;
     }

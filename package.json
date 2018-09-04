@@ -11,11 +11,5 @@
     "digitalocean"
   ],
   "author": "Henry Stoupe",
-  "license": "ISC",
-  "devDependencies": {
-    "fly": "^2.0.6"
-  },
-  "dependencies": {
-    "flightplan": "^0.6.19"
-  }
+  "license": "ISC"
 }
